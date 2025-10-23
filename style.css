@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(141, 207, 251);
+}
+.titulo {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+.sub {
+    color: blue;
+    background-color:white;
+}
+.subtitulo{
+    color: blue;
+    background-color:gray;
+}
+.p{
+    background-color: white;
+    color: orange;
+}
+.abc {
+    background-color:gray;
+    color:crimson;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 9px;
+}
